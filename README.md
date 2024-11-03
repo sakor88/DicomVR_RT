@@ -1,6 +1,6 @@
 # Thesis Summary: Development of a VR Application for Collaborative Medical Imaging
 
-This thesis presents the development of a virtual reality (VR) application designed to visualize and manipulate medical imaging data—specifically, DICOM CT scans and RT dose data—in a multi-user, interactive VR environment. Built with Unity and utilizing the "NetCode for GameObjects" networking library, the application aims to enhance both educational and diagnostic collaboration through immersive data visualization.
+This thesis presents the development of a virtual reality (VR) application based on my [Engineering thesis](https://github.com/sakor88/EngineeringThesis) which is based on a [https://github.com/mlavik1/UnityVolumeRendering](https://github.com/mlavik1/UnityVolumeRendering) project itself. It was designed to visualize and manipulate medical imaging data—specifically, DICOM CT scans and RT dose data—in a multi-user, interactive VR environment. Built with Unity and utilizing the "NetCode for GameObjects" networking library, the application aims to enhance both educational and diagnostic collaboration through immersive data visualization.
 
 ---
 
